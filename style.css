@@ -57,7 +57,7 @@ body {
 
 /* Hero Section */
 .hero {
-  background-image: url('/images/slider_bg_01.png'); /* Replace with your image path */
+  background-image: url('./images/slider_bg_01.png'); /* Replace with your image path */
   background-size: cover;
   background-position: center;
   padding: 100px 60px;
@@ -797,7 +797,7 @@ body {
 /* about us page */
 
 .about-banner {
-  background: url('/images/slider_bg_01.png') no-repeat center center;
+  background: url('./images/slider_bg_01.png') no-repeat center center;
   background-size: cover;
   height: 300px;
   display: flex;
